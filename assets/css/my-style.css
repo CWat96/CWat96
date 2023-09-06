@@ -1,0 +1,17 @@
+/* hide the crapy default header and footer */
+header {
+    font-size: 0;
+    color: transparent;
+    display: none;
+    content: none;
+}
+
+
+.wrapper {
+    background-color: white !important;
+    padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
+}
+
+footer {
+    display: none;
+}
