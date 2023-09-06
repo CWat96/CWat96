@@ -5,7 +5,7 @@
     https://{{ username }}.github.io/resume
 {% endcapture %}
 
-# Cesily Waters
+# Cesily Waters.
 
 <table>
    <tr>
