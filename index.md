@@ -24,7 +24,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 ### Education
 * ZipCodeWilmington School of Coding - _October 2023 - January 2024_
-* _[Certificate of Completion](./bachelors-degree.pdf)_
+* _[Certificate of Completion](./assets/images/Zip%20Code%20Prep%20Certificate%20of%20Completion.pdf)_
 
 
 ### Contact Information
