@@ -33,7 +33,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 * **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
 
 ### Personal Projects
-* Desktop Investing Application (./https://cwat96.github.io/LLableApp/)_
+* [Desktop Investing Application](https://cwat96.github.io/LLableApp/)
 
 ### Exercise and Assignment Completion
 * [`https://github.com/curriculeon`](https://github.com/curriculeon)
