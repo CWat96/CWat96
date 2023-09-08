@@ -44,12 +44,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
     * [My First Github Page Deployment](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/my-first-githubpage/content.html)
     * [Adding Changes to Preexisting Repository](https://curriculeon.github.io/Curriculeon/lectures/version-control-systems/git/add-change-to-preexisting-repo/content.html)
 
-# Contact Info
-Cesily Waters
-509 Grinnell CT
-Bear, DE 19701
-(267) 632-9816
-96CLondon@proton.me
+
 ## Skills
 Communication, interpersonal, problem-solving abilities, adaptability, multi-tasking, attention to detail, product knowledge, conflict resolution, time management, teamwork, patience. 
 ## Experience
