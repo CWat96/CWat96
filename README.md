@@ -18,7 +18,7 @@
 
 ### Education
 * ZipCodeWilmington School of Coding - October 2023 - January 2024
-* _[Certificate of Completion](./bachelors-degree.pdf)_
+* _[Certificate of Prep Course Completion](./assets/images/Zip%20Code%20Prep%20Certificate%20of%20Completion.pdf)_
 
 
 
