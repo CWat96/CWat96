@@ -1,10 +1,3 @@
-{% assign linkedin = "https://www.linkedin.com/in/cwaters28" %}
-{% assign email    = "96clondon@proton.me" %}
-{% assign username = "CWat96" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
-
 # Cesily Waters
 
 <table>
