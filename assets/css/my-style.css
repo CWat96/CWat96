@@ -1,10 +1,10 @@
 /* hide the crapy default header and footer */
-header {
+/* header {
     font-size: 0;
     color: transparent;
     display: none;
     content: none;
-}
+} */
 
 
 .wrapper {
