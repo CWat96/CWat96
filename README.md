@@ -24,4 +24,4 @@
 
 ### Contact Information
 * **Email**: [`96clondon@proton.me`](mailto:96clondon@proton.me)
-* **LinkedIn:** [`https://www.linkedin.com/in/cwaters28`](https://www.linkedin.com/in/cwaters28/)
+* **LinkedIn:** [`https://www.linkedin.com/in/cwat96`](https://www.linkedin.com/in/cwat96/)
