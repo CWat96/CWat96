@@ -13,7 +13,7 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
 
-* Click [here](https://cwat96.github.io/CWat96/) to view full portfolio
+* Click [here]() to view full portfolio
 
 
 ### Education
